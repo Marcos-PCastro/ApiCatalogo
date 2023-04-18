@@ -1,4 +1,5 @@
 ﻿using ApiCatalogo.Model;
+using ApiCatalogo.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiCatalogo.Context;
